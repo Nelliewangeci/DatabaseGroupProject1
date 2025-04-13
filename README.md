@@ -4,9 +4,16 @@
 
 This project involves designing and implementing a **MySQL relational database** to manage a bookstore’s operations. It includes creating tables for books, authors, customers, orders, shipping, and more, along with managing user access and performing queries for analysis.
 
-The database structure was visualized using **Draw.io**, and all scripts were written in **MySQL**.
+
 
 ---
+
+## Tools and Technologies
+
+* *MySQL:* Database management system.
+* *Draw.io for the database structure visualization.
+ ---
+ 
 ## 👥 Group Members
 Hannifer Jebet, Email: hanniferjebet@gmail.com 
 
