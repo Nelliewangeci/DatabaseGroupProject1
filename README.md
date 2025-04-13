@@ -8,7 +8,7 @@ This project involves designing and implementing a **MySQL relational database**
 
 ---
 
-## Tools and Technologies
+## ⚙️💻🖥Tools and Technologies
 
 * *MySQL:* Database management system.
 * *Draw.io for the database structure visualization.
